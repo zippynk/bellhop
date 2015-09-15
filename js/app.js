@@ -67,7 +67,7 @@
         "Tuesday": [
             {type: Period.E, time: '8:30'},
             {type: Period.Brunch, time: '9:45'},
-            {type: Period.Tutorial, time: '10:00'},
+            {type: Period.Flex, time: '10:00'},
             {type: Period.A, time: '11:00'},
             {type: Period.Lunch, time: '12:15'},
             {type: Period.F, time: '12:55'},
